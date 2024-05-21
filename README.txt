@@ -4,10 +4,11 @@ Welcome to "The Furnace," a gym website designed to bring the full gym experienc
 
 Features
 
-* Home: Get a welcoming introduction to The Furnace, complete with essential information 	about the gym.
+* Home: Get a welcoming introduction to The Furnace, complete with essential information about the gym.
 * Services:
-	Detailed information on gym subscriptions, including options for freezing 	memberships, free periods, invitations, and discount vouchers.
-* A "Join Now" button where prospective members can sign up by providing their full name, 	email, password, and chosen membership package. Note: If a limited-time package is 	fully booked, the system will notify users that it cannot be selected.
+	Detailed information on gym subscriptions, including options for freezing memberships, free periods, invitations, and discount vouchers.
+* A "Join Now" button where prospective members can sign up by providing their full name, email, password, and chosen membership package. 
+Note: If a limited-time package is fully booked, the system will notify users that it cannot be selected.
 * About: Learn more about the gym's mission, values, and team.
 
 * User Account Management:
