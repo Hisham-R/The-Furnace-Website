@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>The Furnace</title>
+          <!-- add url icon link -->
+       <link rel = "url icon" href = "Images/URLLogo.png">
+       <link rel="stylesheet" href="style.css"/>
+    </head>
+    <body>
+        <form action="CheckLogin" method="POST">
+            <!-- Navbar Section -->
+        <nav class="navbar">
+        <div class="navbar_container">
+            <a href="#home" id="navbar_logo"><img src="Images/NavbarLogo2.png" alt="Logo"></a>
+            
+        <ul class="navbar__menu">
+          <li class="navbar__item">
+            <a href="index.html" class="navbar__links" id="home-page">Home</a>
+          </li>
+          <li class="navbar__item">
+            <a href="index.html#services" class="navbar__links" id="services-page">Services</a>
+          </li>
+          <li class="navbar__item">
+            <a href="index.html#about" class="navbar__links" id="about-page">About</a>
+          </li>
+        </ul>
+      </div>
+    </nav> 
+            <section>
+   
+                 <div class="ImgBx">
+                    <img src="Images/Login.png" alt="BigRamy">
+                      </div>
+                <div class="ContentBx">
+                    <div class="FormBx">
+                        <h2>Login</h2>
+                        <div class="inputBx">
+                            <span>Email</span>
+                            <input type="text" name="email" required>
+                        </div>
+                         <div class="inputBx">
+                            <span>Password</span>
+                            <input type="password" name="password" required>
+                        </div>
+                        <div class="Remember">
+                            <label><input type="checkbox" name="checkbox">&nbsp; Remember Me</label>
+                        </div>
+                        <div class="inputBx">
+                            <input type="submit" value="LOGIN" name="Loingbtn">
+                        </div>
+                    </div>
+                </div>
+            </section>
+      </form>
+    </body>
+</html>
